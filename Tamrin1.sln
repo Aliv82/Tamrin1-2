@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adadd Aval", "..\C#\adadd aval\ConsoleApp1\Adadd Aval.csproj", "{E55368B9-CB16-428B-A858-0CE5BA990B4C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mirror Number", "..\C#\Mirror Number\Mirror Number\Mirror Number.csproj", "{165D2CA7-07D6-493C-96A0-C775841D6951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E55368B9-CB16-428B-A858-0CE5BA990B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E55368B9-CB16-428B-A858-0CE5BA990B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E55368B9-CB16-428B-A858-0CE5BA990B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E55368B9-CB16-428B-A858-0CE5BA990B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{165D2CA7-07D6-493C-96A0-C775841D6951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{165D2CA7-07D6-493C-96A0-C775841D6951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{165D2CA7-07D6-493C-96A0-C775841D6951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{165D2CA7-07D6-493C-96A0-C775841D6951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5705B4F0-9FAF-4E64-B2A8-DD799E488D00}
+	EndGlobalSection
+EndGlobal
